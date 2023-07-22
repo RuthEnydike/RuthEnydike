@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuthEnydike
 - 👀 I’m interested in anything with the tag TECHNOLOGY
-- 🌱 I’m currently learning to be a WEB DEVELOPER
+- 🌱 I’m a Technical Writer
 - 💞️ I’m looking to collaborate on any project to advance my career
 
 <!---
